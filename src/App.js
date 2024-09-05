@@ -21,12 +21,12 @@ function App() {
         {/* <Header/> */}
         <div className="container mt-5">
           <Routes>
-            <Route path="/Preksha-React-portfolio-challenge20/" element={<About />} />
+            <Route path="/" element={<About />} />
             {/* <Route path="/Preksha-React-portfolio-challenge20/home" element={<Home />} /> */}
-            <Route path="/Preksha-React-portfolio-challenge20/About" element={<About />} />
-            <Route path="/Preksha-React-portfolio-challenge20/Portfolio" element={<Portfolio />} />
-            <Route path="/Preksha-React-portfolio-challenge20/contact" element={<Contact />} />
-            <Route path="/Preksha-React-portfolio-challenge20/Resume" element={<Resume />} />
+            <Route path="/About" element={<About />} />
+            <Route path="/Portfolio" element={<Portfolio />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="/Resume" element={<Resume />} />
           </Routes>
         </div>
         <Footer />

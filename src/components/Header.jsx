@@ -14,7 +14,7 @@ function Header() {
           <Col className="pb-0">
             <h1 className="text-white" style={{ fontSize: "70px" }}>
               <Link
-                to="/Preksha-React-portfolio-challenge20/"
+                to="/"
                 className="text-white text-decoration-none"
                 style={{ margin: "0" }}
               >
