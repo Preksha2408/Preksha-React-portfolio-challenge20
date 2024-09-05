@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Preksha2408/Preksha-React-portfolio-challenge20/static/css/main.26b494f5.css",
+    "main.css": "/Preksha2408/Preksha-React-portfolio-challenge20/static/css/main.f582a7ef.css",
     "main.js": "/Preksha2408/Preksha-React-portfolio-challenge20/static/js/main.6e82f194.js",
     "static/media/EventFinder.GIF": "/Preksha2408/Preksha-React-portfolio-challenge20/static/media/EventFinder.e97ac4ff688517f848f7.GIF",
     "static/media/EmployeeTrackerchallenge12.GIF": "/Preksha2408/Preksha-React-portfolio-challenge20/static/media/EmployeeTrackerchallenge12.9ed6d881dd80b0690ecd.GIF",
@@ -9,11 +9,11 @@
     "static/media/Portfolio_headshot.png": "/Preksha2408/Preksha-React-portfolio-challenge20/static/media/Portfolio_headshot.f0df980f48d68a211057.png",
     "static/media/Preksha_Resume10.pdf": "/Preksha2408/Preksha-React-portfolio-challenge20/static/media/Preksha_Resume10.000b3cc33b44cd7cad9e.pdf",
     "index.html": "/Preksha2408/Preksha-React-portfolio-challenge20/index.html",
-    "main.26b494f5.css.map": "/Preksha2408/Preksha-React-portfolio-challenge20/static/css/main.26b494f5.css.map",
+    "main.f582a7ef.css.map": "/Preksha2408/Preksha-React-portfolio-challenge20/static/css/main.f582a7ef.css.map",
     "main.6e82f194.js.map": "/Preksha2408/Preksha-React-portfolio-challenge20/static/js/main.6e82f194.js.map"
   },
   "entrypoints": [
-    "static/css/main.26b494f5.css",
+    "static/css/main.f582a7ef.css",
     "static/js/main.6e82f194.js"
   ]
 }
