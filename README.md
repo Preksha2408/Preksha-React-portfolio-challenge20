@@ -85,6 +85,6 @@ For questions or further information, please contact me:
 
 * GitHub - [Preksha2408](https://github.com/Preksha2408/Preksha-React-portfolio-challenge20.git)
 
-* Deployed link - https://preksha-react-portfolio.netlify.app/
+* Deployed link - []https://preksha-react-portfolio.netlify.app/
 
 
