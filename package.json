@@ -13,7 +13,7 @@
     "bugs": {
       "url": "https://github.com/Preksha2408/Preksha-React-portfolio-challenge20/issues"
     },
-    "homepage": "https://github.com/Preksha2408/Preksha-React-portfolio-challenge20",
+    
     "dependencies": {
       "@fortawesome/fontawesome-free": "^6.4.0",
       "@fortawesome/fontawesome-svg-core": "^6.4.0",
