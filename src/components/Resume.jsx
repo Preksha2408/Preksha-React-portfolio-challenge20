@@ -132,58 +132,56 @@ function Resume() {
             <h3>Projects</h3>
             <div>
               <h4>Full Stack Engineer and Architect | Human Resources SQL Employee Tracker    </h4>                                                                              June 2024- Sept 2024
-              <h3>Command Line Interface (CLI)SQL Database Management Application         </h3>   
-              <ul>                                                     GitHub| JavaScript| Node.js| Inquirer| PostgreSQL
-              Project Link: https://github.com/Preksha2408/Preksha-Employee-tracker-challenge12.git 
+              <h6>Command Line Interface (CLI)SQL Database Management Application         </h6>   
+              <ul>                                                                         GitHub| JavaScript| Node.js| Inquirer| PostgreSQL
+              <a href>Project Link: https://github.com/Preksha2408/Preksha-Employee-tracker-challenge12.git </a>
                 •	SQL Database Management: Developed a command-line interface(CLI)application, leveraging Node.js,Inquirer.js, and PostgreSQL, to facilitate dynamic CRUD operations on an SQL Human Resources employee database tracker.
                 •	User-centric CLI: Engineered user-friendly (CLI)that enables both developers & non developers to seamlessly manage employee data, emphasizing a deep understanding of user experience (UX) and the translation of complex operations into user-friendly prompts.
               </ul>
               <h4>Full Stack Engineer & Architect | Event Finder Application     </h4>                                                                                                                     June 2024-Sept 2024
-              <h3>Event Discovery & Management Platform         </h3>                        GitHub | JavaScript | React | Node.js | Express.js | MongoDB | Google Maps API | Ticketmaster API
+              <h6>Event Discovery & Management Platform         </h6>                        GitHub | JavaScript | React | Node.js | Express.js | MongoDB | Google Maps API | Ticketmaster API
               <ul>
-              Link: https://github.com/Preksha2408/Event-finder-project01.git 
-              Deployed App: https://preksha2408.github.io/Event-finder-project01/
+              <a href> Link: https://github.com/Preksha2408/Event-finder-project01.git </a>
+              <a href> Deployed App: https://preksha2408.github.io/Event-finder-project01/ </a>
                 •	Event Discovery Platform: Developed a sophisticated web application integrating the Google Maps API and Ticketmaster API, allowing users to discover and explore events based on their preferences, and providing detailed event information through interactive cards.
                 •	User-Centric Interface: Designed an intuitive and responsive interface using Bulma and Bootstrap, focusing on a seamless user experience (UX) for event search, filtering, and detailed exploration, ensuring ease of use across different devices and platforms.
               </ul>
               <h4>Full Stack Engineer & Architect | Weather Dashboard         </h4>                                                                                                                         June 2024- Sept 2024
-              <h3>Real-Time Weather Forecasting Web Application            </h3>
+              <h6>Real-Time Weather Forecasting Web Application            </h6>
               GitHub | JavaScript | HTML | CSS | OpenWeatherMap API | Bootstrap
               <ul>
-                Project Link: https://github.com/Preksha2408/Weather-dashboard-challenge06.git
-                Deployed App: https://preksha2408.github.io/Weather-dashboard-challenge06/
-              
+                <a href>Project Link: https://github.com/Preksha2408/Weather-dashboard-challenge06.git </a>
+                <a href>Deployed App: https://preksha2408.github.io/Weather-dashboard-challenge06/ </a>
               
                 •	Dynamic Weather Forecasting: Developed a real-time weather dashboard application utilizing the OpenWeatherMap API, providing users with current weather conditions and a 5-day forecast based on their selected location.
                 •	Responsive User Interface: Engineered a user-friendly and responsive UI with Bootstrap, ensuring optimal performance across various devices while offering an intuitive user experience for weather data visualization.
               </ul>
 
               <h4>Project Manager & Full Stack Engineer | Event Planner      </h4>                                                                                                                            June 2024- Sept 2024
-              <h3> Event Management Platform      </h3>                                                GitHub | JavaScript | React | Node.js | Express.js | MongoDB | Google Calendar API | Framer Motion
+              <h6> Event Management Platform      </h6>                                                GitHub | JavaScript | React | Node.js | Express.js | MongoDB | Google Calendar API | Framer Motion
               <ul>
-                Project Link:  https://github.com/Preksha2408/Preksha-PrestigePlanner-client.git
+                <a href> Project Link:  https://github.com/Preksha2408/Preksha-PrestigePlanner-client.git </a>
 
-                Deployed App : https://prestigeplanners.netlify.app/
+                <a href> Deployed App : https://prestigeplanners.netlify.app/ </a>
               
-            
                 •	Comprehensive Event Management: Developed a sophisticated event management platform that enables users to create, update, and delete events, manage customer data, and track event timelines.
                 •	Seamless Integration with Google Calendar: Implemented Google Calendar API integration for synchronizing event schedules, ensuring users can manage their events efficiently.
                 •	Robust Backend: Leveraged Node.js and Express.js to construct a reliable server-side application, with MongoDB providing a scalable and flexible database solution.
               </ul>
               <h4>
                 Project Manager & Full Stack Engineer | Book Search Engine     </h4>                                                                                                                   June 2024- Sept 2024
-              <h3>Book Search Engine </h3>
+              <h6>Book Search Engine </h6>
               <ul>
-                Project Link:  https://github.com/Preksha2408/Preksha-Book-Search-Engine.git           GitHub | JavaScript | Express.js | MongoDB | GraphQL | Google Books API
+                <a href> Project Link:  https://github.com/Preksha2408/Preksha-Book-Search-Engine.git   </a>        GitHub | JavaScript | Express.js | MongoDB | GraphQL | Google Books API
 
-                Deployed App: https://preksha-book-search-engine.onrender.com
+                <a href> Deployed App: https://preksha-book-search-engine.onrender.com </a>
               
               •	Advanced Book Searching: Developed a robust book search engine utilizing the Google Books API, enabling users to search for books by title, author, or ISBN.
               •	Comprehensive Data Management: Employed MongoDB for efficient storage and retrieval of user search history and favorite books.
               •	Optimized Data Querying: Integrated GraphQL for seamless querying and manipulation of book data, enhancing the performance and efficiency of data handling.
               </ul>
               <h4>Full Stack Engineer & Architect | Professional Portfolio     </h4>                                                                                                                          June 2024- Sept 2024
-              <h3> Professional Portfolio       </h3>
+              <h6> Professional Portfolio       </h6>
               <ul>                                                                                                                 GitHub | JavaScript | React | Node.js | Express.js | MongoDB
                 Project Link : https://github.com/Preksha2408/Preksha-React-portfolio-challenge20.git
                 Deployed App: https://preksha-react-portfolio.netlify.app/
