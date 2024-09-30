@@ -65,9 +65,12 @@ function Portfolio() {
               title: "Book-Search-Engine",
               description: "Developed a robust book search engine utilizing the Google Books API, enabling users to search for books by title, author, or ISBN. ",
               imgSrc: EmployeeTrackerchallenge12,
-              githubLink:
+              deployedLink: 
                 "https://preksha-book-search-engine.onrender.com/",
-            }
+              githubLink:
+                "https://github.com/Preksha2408/Preksha-Book-Search-Engine.git",
+
+            },
 
           ].map((project, index) => (
             // Div container for each project
