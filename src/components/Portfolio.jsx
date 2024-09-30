@@ -16,6 +16,16 @@ function Portfolio() {
       <div className="container">
         <div className="row">
           {[
+            {
+              title: "Event Planner",
+              description: "Developed a sophisticated event management platform that enables users to create, update, and delete events, manage customer data, and track event timelines. ",
+              imgSrc: EventPlanner,
+              deployedLink:
+                "https://prestigeplanners.netlify.app/",
+              githubLink:
+                "https://github.com/Preksha2408/Preksha-PrestigePlanner-client.git",
+
+            },
         
             {
               title: "Weather Dashboard",
@@ -51,6 +61,13 @@ function Portfolio() {
               githubLink:
                 "https://github.com/Preksha2408/Preksha-Employee-tracker-challenge12.git",
             },
+            {
+              title: "Book-Search-Engine",
+              description: "Developed a robust book search engine utilizing the Google Books API, enabling users to search for books by title, author, or ISBN. ",
+              imgSrc: EmployeeTrackerchallenge12,
+              githubLink:
+                "https://preksha-book-search-engine.onrender.com/",
+            }
 
           ].map((project, index) => (
             // Div container for each project
